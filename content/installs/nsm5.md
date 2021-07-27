@@ -10,7 +10,7 @@ The simplest install is to use an existing vertical pipe and the two plastic tie
 
 ![roof install](/img/nsm5/roof-87.jpg)
 
-If you need to aim the router up or down you can use a [nanobracket](https://www.streakwave.com/itemdesc.asp?ic=NBU001).
+If you need to aim the router up or down you can use a [nanobracket](https://www.doubleradius.com/ubiquiti-nanohd-mount-3-pack).
 
 ![nanobracket](/img/nsm5/nanobracket.jpg)
 
